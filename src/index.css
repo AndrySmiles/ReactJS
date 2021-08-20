@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App .item-message {
+  padding: 14px;
+  width: 275px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 15px;
+  background: #f1ecec;
+  font-size: 18px;
+  color: #000;
+  border: none;
+  border-radius: 5px;
+}
+
+.App input {
+  padding: 14px 32px 14px 16px;
+  border-radius: 4px 0 0 4px;
+  border: 2px solid #5d0cff;
+  outline: none;
+  background: transparent;
+}
+
+.App button {
+  padding: 16px 7px;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  outline: none;
+  background: #5d0cff;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.user {
+  text-align: right;
+}
