@@ -4,7 +4,7 @@ import MessageList from './components/MessageList'
 import MessageListForm from './components/MessageListForm'
 
 function App() {
-  const [msg, setMsg] = useState([])
+  const [msg, setMsg] = useState([]);
 
   const addTask = (userInput) => {
     if (userInput) {
